@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708202429181",
+    "firebase_url": "https://kotlonapp.firebaseio.com",
+    "project_id": "kotlonapp",
+    "storage_bucket": "kotlonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708202429181:android:28c89e15aa1a7ac2",
+        "android_client_info": {
+          "package_name": "com.toon.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708202429181-odcshqbq70lqohq7vp9tk9a4u53dln8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toon.myapplication",
+            "certificate_hash": "2be5192bb5c68ca1c218ae3da6b38b7708f6294f"
+          }
+        },
+        {
+          "client_id": "708202429181-msaa7opgnccc8v60dk18o5h4kc1vfuel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWuSUtI5AJIlnfSf1u3-l2CrqDomhCZ9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708202429181-msaa7opgnccc8v60dk18o5h4kc1vfuel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
