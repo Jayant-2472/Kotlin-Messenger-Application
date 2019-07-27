@@ -7,7 +7,7 @@
             android:text="This is my message and max width is 250 dp, This is my message and max width is 250 dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView"
+            android:id="@+id/textView_from_row"
             android:background="@drawable/rounded_edittext_register_login"
             android:maxWidth="250dp"
             android:padding="14dp"
